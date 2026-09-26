@@ -1,0 +1,9 @@
+{
+  "name": "png-to-webp",
+  "private": true,
+  "description": "Convert PNG images to WebP",
+  "main": "png-to-webp.js",
+  "dependencies": {
+    "sharp": "^0.34.4"
+  }
+}

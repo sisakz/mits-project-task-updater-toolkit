@@ -1,0 +1,10 @@
+{
+  "name": "mits-project-task-cover-image-crop",
+  "private": true,
+  "description": "Crop a generated 16:9 cover to an ultrawide 21:9 banner",
+  "main": "crop-cover.js",
+  "dependencies": {
+    "jpeg-js": "^0.4.4",
+    "pngjs": "^7.0.0"
+  }
+}
